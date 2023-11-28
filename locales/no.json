@@ -1,0 +1,28 @@
+{
+  "play": "Spill Sudoku",
+  "create": "Opprett Brett",
+  "instructions": "Instruksjoner",
+  "changeLanguage": "Endre Språk",
+  "english": "Engelsk",
+  "norwegian": "Norsk",
+  "easy": "Lett",
+  "medium": "Middels",
+  "hard": "Vanskelig",
+  "checkSolution": "Sjekk Løsning",
+  "save": "Lagre Brett",
+  "clearBoards": "Slett Lagrede Brett",
+  "clear": "Slett",
+  "solved": "Congratulations! You solved the puzzle!",
+  "notSolved": "Puslespillet er ikke løst ennå. Fortsett å prøve!",
+  "noSolution": "Puslespillet har ingen løsning. Prøv å endre noen av tallene.",
+  "puzzleSaved": "Puslespillet er lagret!",
+  "clearSaved": "Lagrede puslespill er slettet!",
+  "homeTitle": "Hjem",
+  "playTitle": "Spill",
+  "createTitle": "Opprett",
+  "instructionsTitle": "Instruksjoner",
+  "instructionsPlay": "Å Spille Sudoku\n\n For å spille Sudoku, velg 'Spill Sudoku' fra hovedskjermen.\n Velg en vanskelighetsgrad: Lett, Middels, eller Vanskelig.\n Et puslespill vil bli presentert. Fyll ut rutenettet med tall fra 1 til 9.\n Hver rad, kolonne og 3x3 rutenett må inneholde alle tallene fra 1 til 9 uten gjentakelse.\n Trykk på en celle for å skrive inn eller endre et tall.\n Trykk på 'Sjekk Løsning' for å verifisere om du har løst puslespillet riktig.",
+  "instructionsCreate": "\n Å Opprette Sudoku\n\n For å lage et Sudoku-puslespill, velg 'Opprett Brett' fra hovedskjermen.\n Velg en vanskelighetsgrad for å generere et brett.\n Trykk på en celle for å skrive inn eller endre et tall.\n Trykk på 'Lagre Brett' for å lagre puslespillet.\n Trykk på 'Slett Lagrede Brett' for å slette lagrede puslespill.\n",
+  "instructionsChangeLanguage": "\n Å Endre Språk\n\n For å endre språket, velg 'Endre Språk' fra hovedskjermen.\n Velg språket du ønsker å bruke."
+
+}
